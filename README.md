@@ -18,5 +18,6 @@ AR object insertion project using openCV, enhancing creativity and interactivity
 ## Result
 
 
-Uploading 화면 기록 2024-04-12 오후 5.31.10.mov…
+
+https://github.com/skdltn210/simple-ar/assets/113167709/34aacbfa-c49c-4f76-99d3-86b9584e1643
 
